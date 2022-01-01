@@ -1,9 +1,9 @@
 #body {
   border: 2px solid black;
-  padding: 25px;
+  padding: 125px;
   background: url("https://jessicaroots.com/wp-content/uploads/et_temp/portfolio-background-header-53082_1080x675.jpg");
   background-repeat: no-repeat;
-  background-size:cover;
+  background-size: 100%
   /*display: flex;
   flex-flow: row wrap;
   align-items: center;*/
